@@ -381,6 +381,10 @@ MigrationBackup/
 _UpgradeReport_Files/
 [Pp]ackages/
 
+# Jetbrain Rider Cache
+.idea/
+Assets/Plugins/Editor/JetBrains*
+
 Thumbs.db
 Desktop.ini
 .DS_Store
