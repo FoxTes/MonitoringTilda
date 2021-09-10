@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoringTilda", "MonitoringTilda\MonitoringTilda.csproj", "{C2D47A16-3AC7-4629-B4D7-551DD463616D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoringTilda.Services", "MonitoringTilda.Services\MonitoringTilda.Services.csproj", "{FF3F6A9D-0F98-4664-8BE8-36313CC4FA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D47A16-3AC7-4629-B4D7-551DD463616D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D47A16-3AC7-4629-B4D7-551DD463616D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D47A16-3AC7-4629-B4D7-551DD463616D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D47A16-3AC7-4629-B4D7-551DD463616D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3F6A9D-0F98-4664-8BE8-36313CC4FA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3F6A9D-0F98-4664-8BE8-36313CC4FA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3F6A9D-0F98-4664-8BE8-36313CC4FA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3F6A9D-0F98-4664-8BE8-36313CC4FA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
